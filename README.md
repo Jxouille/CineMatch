@@ -1,1 +1,1 @@
-# Cin-Match
+# CinéMatch
